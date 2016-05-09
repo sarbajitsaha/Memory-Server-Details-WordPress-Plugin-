@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Server Memory Details
- * Plugin URI: 
+ * Plugin URI: https://raw.githubusercontent.com/sarbajitsaha/Server-Memory-Details-WordPressPlugin/master/server-memory-details/server-memory-details.zip
  * Description: This plugin adds details about the server memory in the footer of the admin dashboard
  * Version: 1.0.0
  * Author: Sarbajit Saha
