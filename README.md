@@ -1,17 +1,24 @@
 === Server Memory Details ===
+
 Contributors: sarbajitsaha
+
 Tags: memory, memory-server, memory-peak, memory-current, server, info, php, admin
+
 Requires at least: 3.0.1
-Tested up to: 3.4
+
+Tested up to: 4.5
+
 Stable tag: 4.5
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin adds details about the server memory in the footer of the admin dashboard
 
 == Description ==
 
-    This plugin adds details about the server memory in the footer of the admin dashboard. The total server memory, current memory usage, percentage of memory used, the peak memory usage and memory limit of wordpress will be displayed in the footer.
+ This plugin adds details about the server memory in the footer of the admin dashboard. The total server memory, current memory usage, percentage of memory used, the peak memory usage and memory limit of wordpress will be displayed in the footer.
 
 == Installation ==
 
@@ -23,6 +30,7 @@ This plugin adds details about the server memory in the footer of the admin dash
 == Frequently Asked Questions ==
 
 = What is the purpose of this plugin?
+
    When free memory is extremely low, your website can be slow to load and lead to a poor user experience for your visitors.
  Using this plugin, you can understand easily how much memory is being used and the peak memory usage that the server reached.
 
